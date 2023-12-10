@@ -1,0 +1,145 @@
+{
+    "apps": [
+        {
+            "Name": "7zip",
+            "Source": "main",
+            "Updated": "2023-12-10T12:04:16.9424231-06:00",
+            "Version": "23.01",
+            "Info": ""
+        },
+        {
+            "Name": "adb",
+            "Source": "main",
+            "Updated": "2023-12-10T12:07:29.1844454-06:00",
+            "Version": "34.0.5",
+            "Info": ""
+        },
+        {
+            "Name": "bat",
+            "Source": "main",
+            "Updated": "2023-12-10T12:07:31.0801186-06:00",
+            "Version": "0.24.0",
+            "Info": ""
+        },
+        {
+            "Name": "busybox",
+            "Source": "main",
+            "Updated": "2023-12-10T12:07:34.1321979-06:00",
+            "Version": "5236-g7dff7f376",
+            "Info": ""
+        },
+        {
+            "Name": "cacert",
+            "Source": "main",
+            "Updated": "2023-12-10T12:07:34.8192873-06:00",
+            "Version": "2023-08-22",
+            "Info": ""
+        },
+        {
+            "Name": "curl",
+            "Source": "main",
+            "Updated": "2023-12-10T12:04:19.4622797-06:00",
+            "Version": "8.5.0_1",
+            "Info": ""
+        },
+        {
+            "Name": "dark",
+            "Source": "main",
+            "Updated": "2023-12-10T12:07:36.1044475-06:00",
+            "Version": "3.11.2",
+            "Info": ""
+        },
+        {
+            "Name": "ffmpeg",
+            "Source": "main",
+            "Updated": "2023-12-10T12:08:12.4694372-06:00",
+            "Version": "6.1",
+            "Info": ""
+        },
+        {
+            "Name": "fzf",
+            "Source": "main",
+            "Updated": "2023-12-10T10:05:37.1680615-06:00",
+            "Version": "0.44.1",
+            "Info": ""
+        },
+        {
+            "Name": "gdu",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:11.2073841-06:00",
+            "Version": "5.25.0",
+            "Info": ""
+        },
+        {
+            "Name": "jq",
+            "Source": "main",
+            "Updated": "2023-12-10T12:04:20.9668275-06:00",
+            "Version": "1.7",
+            "Info": ""
+        },
+        {
+            "Name": "neofetch",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:12.081867-06:00",
+            "Version": "7.1.0",
+            "Info": ""
+        },
+        {
+            "Name": "sudo",
+            "Source": "main",
+            "Updated": "2023-12-10T12:04:21.4912707-06:00",
+            "Version": "0.2020.01.26",
+            "Info": ""
+        },
+        {
+            "Name": "ttyd",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:13.2436797-06:00",
+            "Version": "1.7.4",
+            "Info": ""
+        },
+        {
+            "Name": "unzip",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:14.8497724-06:00",
+            "Version": "6.00",
+            "Info": ""
+        },
+        {
+            "Name": "uutils-coreutils",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:19.22577-06:00",
+            "Version": "0.0.23",
+            "Info": ""
+        },
+        {
+            "Name": "vhs",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:20.7932586-06:00",
+            "Version": "0.6.0",
+            "Info": ""
+        },
+        {
+            "Name": "wget",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:28.688493-06:00",
+            "Version": "1.21.4",
+            "Info": ""
+        },
+        {
+            "Name": "zip",
+            "Source": "main",
+            "Updated": "2023-12-10T12:09:29.2562958-06:00",
+            "Version": "3.0",
+            "Info": ""
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-12-10T09:28:37-06:00",
+            "Manifests": 1266
+        }
+    ]
+}
