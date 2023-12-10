@@ -52,6 +52,20 @@ My dotfiles and configurations on Windows :shipit:
   . $env:USERPROFILE\.config\powershell\user_profile.ps1
   ```
 
+3. **Fonts**
+
+    To properly display the prompt theme with oh-my-posh, we will need to install them from:
+
+    [The Official Nerd Fonts Page](https://www.nerdfonts.com/font-downloads)
+
+4. **Prompt Theme**
+
+    This repo contains a configuration for oh-my-posh in the user_profile file and a slightly customized theme based on `takuya`.
+
+    to modify the prompt use the file `takuya.omp.json` once it's set on the path indicated at the end of this guide.
+
+    Check out the documentation for oh-my-posh: [Docs page](https://ohmyposh.dev/docs)
+
 
 ### Install Powershell Modules
 
