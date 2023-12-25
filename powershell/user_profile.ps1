@@ -23,6 +23,7 @@ Set-PsFzfOption -PSReadLineChordProvider 'Ctrl+f' -PSReadLineChordReverseHistori
 
 # Env
 $env:GIT_SSH = "C:\Windows\system32\OpenSSH\ssh.exe"
+$env:XDG_CONFIG_HOME = "$HOME/.config"
 
 # Alias
 #Set-Alias -Name vim -Value nvim
@@ -148,4 +149,9 @@ function Convert-PowerShellToBatch {
 		"@echo off`npowershell.exe -NoExit -encodedCommand $encoded" | Set-Content -Path $newPath -Encoding Ascii
 
 	}
+}
+
+
+function vimconf () {
+  nvim ~\.config\nvim\
 }
