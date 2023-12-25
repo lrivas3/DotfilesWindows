@@ -5,12 +5,12 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#7160e8",
-          "foreground": "#ffffff",
+          "background": "#79b8ca",
+          "foreground": "#2e3440",
           "leading_diamond": "\u256d\u2500\ue0b6",
           "style": "diamond",
-          "template": " {{ .Name }} ",
-          "type": "shell"
+          "template": " <U+F327>  ",
+          "type": "text"
         },
         {
           "background": "#ef5350",
