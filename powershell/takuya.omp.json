@@ -26,7 +26,16 @@
           "foreground": "#E4E4E4",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "style": "full"
+            "mapped_locations_enabled": true,
+            "mapped_locations": {
+              "C:\\Users\\th3gent\\Development": "\uF09B ",
+              "C:\\Users\\th3gent\\.config": "\ue615 "
+            },
+            "folder_icon": "\uf115 ",
+            "folder_separator_icon": "\ue0b1 ",
+            "home_icon": "\ueb06 ",
+            "style": "agnoster_short",
+            "max_depth": 3
           },
           "style": "powerline",
           "template": " {{ .Path }} ",
