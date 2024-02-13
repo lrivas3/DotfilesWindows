@@ -3,7 +3,7 @@
 
 My dotfiles and configurations on Windows :shipit:
 
-> [!WARNING]   
+> [!INFO]   
 > Estas configuraciones estás basadas en mi uso diario del sistema. Algunas herramientas podrían no resultar utiles para ti.
 
 
